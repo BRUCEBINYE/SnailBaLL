@@ -20,8 +20,9 @@ This repository contains codes of **[SnailBaLL](), a deep learning model for gen
 </details>
 
 
-## Cuda
+## Device
 
+Although a CPU is theoretically capable of running SnailBaLL, we recommend running it with an NVIDIA GeForce RTX 3090 GPU. This will reduce runtime.
 
 ## Download SnailBaLL
 
