@@ -107,7 +107,7 @@ If you have sequence pairs that need to predict whether the two sequences are th
 
 ```
 python prediction.py \
-    --seq1_dir "./ERNIE-RNA/results/ernie_rna_representations/example/example_dataset_seq1/cls_embedding.npy" \
+  --seq1_dir "./ERNIE-RNA/results/ernie_rna_representations/example/example_dataset_seq1/cls_embedding.npy" \
   --seq2_dir "./ERNIE-RNA/results/ernie_rna_representations/example/example_dataset_seq2/cls_embedding.npy" \
   --name "example_dataset_NoLabel" \
   --device 0 \
