@@ -117,7 +117,7 @@ python prediction.py \
 
 ## Citations
 
-If you use SnailBaLL, please cite our work:
+If you think SnailBaLL is useful, please cite our work when you use it:
 
 [**SnailBaLL: SnailBaLL: Snail identification based on COI barcodes represented by RNA large language model**]()
 
