@@ -9,6 +9,7 @@ This repository contains codes of **[SnailBaLL](), a deep learning model for gen
 
 <details><summary>Table of contents</summary>
 
+- [Device](#Device)
 - [Download SnailBaLL](#Download_SnailBaLL)
 - [Setup Environment](#Setup_Environment)
 - [Data preparing](#Data_preparing)
