@@ -22,7 +22,7 @@ This repository contains codes of **[SnailBaLL](), a deep learning model for gen
 
 ## Device
 
-Although a CPU is theoretically capable of running SnailBaLL, we recommend running it with an NVIDIA GeForce RTX 3090 GPU. This will reduce runtime.
+Although a CPU is theoretically capable of running SnailBaLL, we recommend running it with a GPU like NVIDIA GeForce RTX 3090, etc. This will reduce runtime.
 
 ## Download SnailBaLL
 
