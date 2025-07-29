@@ -120,7 +120,7 @@ python prediction.py \
 
 If you think SnailBaLL is useful, please cite our work when you use it:
 
-Bin Ye, Junfeng Xia, Min Wu, Xia Wan, Satoshi Chiba. [**Snail identification based on COI barcodes represented by RNA large language model**](). Submitting. 
+B. Y., J. X., M. W., X. W., S. C.. [**Snail identification based on COI barcodes represented by RNA large language model**](). Submitting. 
 
 
 ## License
