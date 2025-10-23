@@ -12,6 +12,6 @@ authors:
 - family-names: Chiba
   given-names: Satoshi
 title: Genus-level snail identification based on COI barcodes represented by RNA large language model
-version: v1.0
+version: SnailBaLL v1.0
 doi: 10.5281/zenodo.17364173
 date-released: 2025-10-16
