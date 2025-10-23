@@ -2,7 +2,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: Ye
   given-names: Bin
-orcid: https://orcid.org/0000-0002-5359-4389
+  orcid: https://orcid.org/0000-0002-5359-4389
 - family-names: Xia
   given-names: Junfeng
 - family-names: Wu
