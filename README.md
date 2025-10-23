@@ -1,7 +1,7 @@
 # SnailBaLL
 A **Snail** identification tool based on COI **Ba**rcodes represented by RNA **L**arge **L**anguage model.
 
-This repository contains codes of **[SnailBaLL](), a deep learning model for genus-level identification of molluscan species, especially land snail within the order Stylommatophora**. SnailBaLL could test and predict whether two COI sequences are the same genus or not, by employing embeddings of the RNA secondary structure extracted using the RNA large language model [ERNIE-RNA](https://github.com/Bruce-ywj/ERNIE-RNA). You can find more details about SnailBaLL in our paper: [**Snail identification based on COI barcodes represented by RNA large language model**]().
+This repository contains codes of **[SnailBaLL](), a deep learning model for genus-level identification of molluscan species, especially land snail within the order Stylommatophora**. SnailBaLL could test and predict whether two COI sequences are the same genus or not, by employing embeddings of the RNA secondary structure extracted using the RNA large language model [ERNIE-RNA](https://github.com/Bruce-ywj/ERNIE-RNA). You can find more details about SnailBaLL in our paper: [**Genus-level snail identification based on COI barcodes represented by RNA large language model**]().
 
 
 
@@ -120,7 +120,7 @@ python prediction.py \
 
 If you think SnailBaLL is useful, please cite our work when you use it:
 
-B. Y., J. X., M. W., X. W., S. C.. [**Snail identification based on COI barcodes represented by RNA large language model**](). Submitting. 
+B. Y., J. X., M. W., X. W., S. C.. [**Genus-level snail identification based on COI barcodes represented by RNA large language model**](https://doi.org/10.5281/zenodo.17364173). Submitting. 
 
 
 ## License
