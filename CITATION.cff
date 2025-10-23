@@ -3,6 +3,15 @@ authors:
 - family-names: Ye
   given-names: Bin
 orcid: https://orcid.org/0000-0002-5359-4389
+- family-names: Xia
+  given-names: Junfeng
+- family-names: Wu
+  given-names: Min
+- family-names: Wan
+  given-names: Xia
+- family-names: Chiba
+  given-names: Satoshi
 title: Genus-level snail identification based on COI barcodes represented by RNA large language model
-version: SnailBaLL v1.0
+version: v1.0
+doi: 10.5281/zenodo.17364173
 date-released: 2025-10-16
