@@ -1,0 +1,8 @@
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Ye
+  given-names: Bin
+orcid: https://orcid.org/0000-0002-5359-4389
+title: Genus-level snail identification based on COI barcodes represented by RNA large language model
+version: SnailBaLL v1.0
+date-released: 2025-10-16
