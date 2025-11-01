@@ -120,7 +120,7 @@ python prediction.py \
 
 If you think SnailBaLL is useful, please cite our work when you use it:
 
-B. Y., J. X., M. W., X. W., S. C.. [**Genus-level snail identification based on COI barcodes represented by RNA large language model**](https://doi.org/10.5281/zenodo.17364173). Submitting. 
+B. Y., M. W., S. C.. [**Genus-level snail identification based on COI barcodes represented by RNA large language model**](https://doi.org/10.5281/zenodo.17364173). Submitting. 
 
 
 ## License
